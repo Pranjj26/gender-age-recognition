@@ -1,4 +1,3 @@
-Sure! Here's an example of a README file for the gender and age recognition code:
 
 # Gender and Age Recognition
 
